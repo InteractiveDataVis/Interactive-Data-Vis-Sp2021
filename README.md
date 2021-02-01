@@ -1,2 +1,20 @@
-# Interactive-Data-Vis-Fall2021
-Course material for DATA 73200 (Interactive Data Visualization)
+# CUNY-Fall-2020
+
+Course material for Interactive Data Visualization (DATA 73200) taught at CUNY Spring Semester, 2021. This repository contains the starter code for each of the 7 tutorials on the `/main` branch, the code built in live coding sessions from class will be released each week on the `/class` branch, and demo code (which includes additional helpful code for the tutorial) will be released after the class on the `/demo` branch.
+
+After all [installations](./tutorial0_serve/1_INSTALL.md), [git setup](./tutorial0_serve/GIT_SETUP.md), and the [local serve](./tutorial0_serve/BASIC_SERVER.md) instructions in the first tutorial folder (`./tutorial0_serve/`), you're ready to start creating awesome visualizations 🎉!
+
+## List of Tutorials
+
+Code for each tutorial will be released on the week that we cover that topic. The demo code that will help in the tutorial **will be pushed to a `demo` branch**. The class code **will be pushed to a `class` branch**.
+
+| Tutorial | Topic | Starter Code | Demo Code | Class Code |
+| ------ | ----- | ------ | ----- | ----- |
+| Tutorial 0 | Serve | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial0_serve) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial0_serve) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial0_serve)
+| Tutorial 1 | Introduction | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial1_intro) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial1_intro) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial1_intro) |
+| Tutorial 2 | Quantities and Amounts | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial2_quantities_and_amounts) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial2_quantities_and_amounts) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial2_quantities_and_amounts) |
+| Tutorial 3 | Distributions | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial3_distributions) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial3_distributions) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial3_distributions) |
+| Tutorial 4 | Timeseries | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial4_timeseries) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial4_timeseries) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial4_timeseries) |
+| Tutorial 5 | Geographic | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial5_geographic) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial5_geographic) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial5_geographic) |
+| Tutorial 6 | Hierarchical | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial6_hierarchical) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial6_hierarchical) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial6_hierarchical) |
+| Tutorial 7 | State Management | [/tree/main](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/main/tutorial7_state_management) | [/tree/demo](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/demo/tutorial7_state_management) | [/tree/class](https://github.com/InteractiveDataVis/Interactive-Data-Vis-Sp2021/tree/class/tutorial7_state_management) |
