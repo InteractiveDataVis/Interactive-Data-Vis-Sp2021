@@ -1,4 +1,4 @@
-# CUNY-Fall-2020
+# CUNY-Spring-2021
 
 Course material for Interactive Data Visualization (DATA 73200) taught at CUNY Spring Semester, 2021. This repository contains the starter code for each of the 7 tutorials on the `/main` branch, the code built in live coding sessions from class will be released each week on the `/class` branch, and demo code (which includes additional helpful code for the tutorial) will be released after the class on the `/demo` branch.
 
