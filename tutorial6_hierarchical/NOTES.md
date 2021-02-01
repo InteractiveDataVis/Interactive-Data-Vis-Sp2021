@@ -9,6 +9,6 @@ Use this markdown file to keep track of open questions/challenges from this week
 
 Sometimes it helps to formulate what you understood and where you got stuck in order to move forward. Feel free to include `code snippets`, `screenshots`, and `error message text` here as well.
 
-If you find you you are not able complete this week's, reflecting on where you are getting stuck here will help you get full credit for this week's tutorial
+If you find you're not able complete this week's assignment, reflecting on where you are getting stuck here will help you get full credit for this week's tutorial
 
 ------------
