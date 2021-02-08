@@ -19,7 +19,7 @@ To start a new serve, right click on the HTML file you intend to serve. You will
 
 <img src='../lib/assets/liveServerMenu.png' width='200px'>
 
-A new browser window will appear as a server for this specific file at the local server url (ex: `http://127.0.0.1:5500/tutorial0_serve/index.html`)
+A new browser window will appear as a server for this specific file at the local server url (ex: `http://127.0.0.1:5500/tutorial1_getting_started/index.html`)
 
 
 ## Option 2: Node Server
