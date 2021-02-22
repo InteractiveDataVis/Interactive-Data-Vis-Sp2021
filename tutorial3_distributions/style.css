@@ -1,0 +1,16 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+svg{
+  margin: 0 auto;
+  display: block;
+}
+
+text{
+  fill: black;
+}
+
+.axis-title{
+  text-transform: uppercase;
+}
