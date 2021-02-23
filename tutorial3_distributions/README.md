@@ -5,7 +5,7 @@ The goals for this tutorial are:
 - to introduce the data join lifecycle through [enter, update, and exit selections](https://github.com/d3/d3-selection/blob/v1.4.1/README.md#selection_join).
 - to introduce a new file structure ("boilerplate") that will allow us to incorporate application `state`.
 - to learn basic [d3-transitions](https://github.com/d3/d3-transition), and leverage them to enhance understanding of the data.
-- to learn to work with HTML UI elements, like [select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) or [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input), and basic event listeners.
+- to learn to work with HTML UI elements, like [select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) or [input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input), and basic [event listeners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
 
 ## Setup + Serve:
 
@@ -26,7 +26,10 @@ As you're building, don't forget you can always reference the [class code branch
 
 **BONUS:**
 
-- [ ] Add another UI element to your page. This means that the element should (1) update `state`, and just as the dropdown does, (2) call `draw()` on change, and (3) affect the data appropriately. Some ideas include another dropdown for another value, radio buttons, checkbox, an input field with a threshold value, etc.
+- [ ] Add another UI element to your page. This means that the element should:
+   - (1) update `state` just as the dropdown does, so that you can keep track of your new application state
+   - (2) call `draw()` on change to update your visualization with the new application state, and
+   - (3) alter the data visualization appropriately. Some ideas include another dropdown for another value, radio buttons, checkbox, an input field with a threshold value, swapping out metrics, etc.
 
 ## Deploy + Submit
 
@@ -36,29 +39,11 @@ Once you've completed the assignment, use the Github workflow to deploy your wor
 
 To receive full credit, you must post your stable path before the 12pm the day of the next class.
 
-## Required Reading:
-
-- [ ] [Interneting Is Hard: CSS Selectors](https://www.internetingishard.com/html-and-css/css-selectors/)
-- [ ] [Thinking With Joins](https://bost.ocks.org/mike/join/)
-- [ ] [Arrow Functions](https://www.javascripttutorial.net/es6/javascript-arrow-function/)
-- [ ] [Javascript.info: Data Types](https://javascript.info/types)
-- [ ] OPTIONAL: [MDN: Introduction to Asynchronous Code.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
-
 ## Other Resources:
 
 - [selection.join](https://observablehq.com/@d3/selection-join)
 - [Learn D3: Scales](https://observablehq.com/@d3/learn-d3-scales?collection=@d3/learn-d3)
 - [Learn D3: Shapes](https://observablehq.com/@d3/learn-d3-shapes?collection=@d3/learn-d3)
-- [Data Structures D3 Accepts](https://www.dashingd3js.com/data-structures-d3js-accepts)
-- [Serial Mentor: Directory of Visualizations](https://serialmentor.com/dataviz/directory-of-visualizations.html)
-- [O'Reilly: Binding Data](https://alignedleft.com/tutorials/d3/binding-data)
-- [O'Reilly: Chaining Methods](https://alignedleft.com/tutorials/d3/chaining-methods)
-- [JS Fundamentals: Variables](https://javascript.info/variables)
-- [Javascript Fundamentals](https://javascript.info/first-steps)
-- [Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-- [How to use github](https://git-scm.com/book/en/v2)
-- [Guide to CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
-- [Interneting Is Hard](https://www.internetingishard.com/html-and-css/)
-- [Javascript.info: Getting Started](https://javascript.info/getting-started)
-- [Javascript.info: Debugging Chrome](https://javascript.info/debugging-chrome)
-- [D3: Data-Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
+- [HTML Select Elements]()
+- [Intro to Event Listeners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events)
+- [Available Events you can listen to](https://developer.mozilla.org/en-US/docs/Web/Events)
