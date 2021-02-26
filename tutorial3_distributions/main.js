@@ -110,7 +110,7 @@ function draw() {
       ,
       update=> update,
       exit => exit
-      .call(exit
+      .call(exit => exit
         .transition()
         .duration(1000)
         .attr("cy", height)
