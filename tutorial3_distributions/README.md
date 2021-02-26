@@ -26,10 +26,11 @@ As you're building, don't forget you can always reference the [class code branch
 
 **BONUS:**
 
-- [ ] Add another UI element to your page. This means that the element should:
-   - (1) update `state` just as the dropdown does, so that you can keep track of your new application state
-   - (2) call `draw()` on change to update your visualization with the new application state, and
-   - (3) alter the data visualization appropriately. Some ideas include another dropdown for another value, radio buttons, checkbox, an input field with a threshold value, swapping out metrics, etc.
+- [ ] Add another UI element to your page. Some ideas include another dropdown for another value, radio buttons, checkbox, an input field with a threshold value, swapping out metrics, etc.
+This means would entail:
+   - (1) updating `state` just as the dropdown does, so that you can keep track of your new application state (though you will probably be updating a *new* state property).
+   - (2) calling `draw()` on `change` to update your visualization with the new application state, and
+   - (3) altering the data visualization appropriately.
 
 ## Deploy + Submit
 
