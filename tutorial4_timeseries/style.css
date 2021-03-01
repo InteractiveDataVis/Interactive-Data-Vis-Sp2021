@@ -1,0 +1,20 @@
+text{
+  fill: black;
+}
+
+.dot text{
+  opacity: 0;
+  pointer-events: none;
+}
+
+.dot:hover text{
+  opacity: 1;
+}
+
+.dot:hover circle{
+  fill: orange;
+}
+
+.dot{
+  cursor: pointer;
+}
