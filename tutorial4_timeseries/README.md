@@ -27,7 +27,7 @@ As you're building, don't forget you can always reference the [class code branch
 
 - [ ] Turn this single line chart into a multi-line chart, either with this data or with your own.
 
-- [ ] Add hover activity to your path line or circles. Try doing this only with javascript `.on("mouseover", ...)`, before resorting to the css method, `:hover`. Consider adding text annotations on hover, or maybe to highlight key events.
+- [ ] Add hover activity to your path line or circles. Try doing this only with javascript `.on("mouseover", ...)`, before resorting to the css method, `:hover`. Consider adding text annotations on hover, a moving tooltip/info box, or maybe to highlight key events.
 
 ## Deploy + Submit
 
@@ -49,3 +49,4 @@ To receive full credit, you must post your stable path before the 12pm the day o
 - [Learn D3: Scales](https://observablehq.com/@d3/learn-d3-scales?collection=@d3/learn-d3)
 - [Learn D3: Shapes](https://observablehq.com/@d3/learn-d3-shapes?collection=@d3/learn-d3)
 - [Data Structures D3 Accepts](https://www.dashingd3js.com/data-structures-d3js-accepts)
+- [Serial Mentor: Directory of Visualizations](https://serialmentor.com/dataviz/directory-of-visualizations.html)
