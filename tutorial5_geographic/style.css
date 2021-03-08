@@ -1,0 +1,17 @@
+.hover-content{
+  top: 0;
+  left: 0;
+  max-width: 300px;
+  background-color: white;
+  padding: .5em;
+  opacity: 0;
+  /* need to remove pointer events so that
+  the tooltip doesn't interrupt the mouse events */
+  pointer-events: none;
+  border-radius: 5px;
+  box-shadow: 0 0 7px gainsboro;
+}
+
+.hover-content.visible{
+  opacity: 1;
+}
