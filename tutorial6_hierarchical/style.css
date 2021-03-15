@@ -1,0 +1,18 @@
+
+
+.leaf rect:hover{
+  stroke: black;
+  stroke-width: 1px;
+}
+
+.tooltip{
+  pointer-events: none;
+  background-color: white;
+  box-shadow: 0 0 7px gainsboro;
+  padding: .5em;
+  border-radius: 5px;
+}
+
+.tooltip:not(.visible){
+  opacity: 0;
+}
