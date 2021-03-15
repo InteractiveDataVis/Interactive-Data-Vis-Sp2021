@@ -15,7 +15,7 @@ As you're building, don't forget you can always reference the [class code branch
 
 ## Week 6 Assignment:
 
-- [ ] Implement your own version of the treemap we made in class using the [`flare.json`](../data/flare.json) dataset provided (or if you are up for the challenge create your own dataset).
+- [ ] Implement your own version of the treemap we made in class using the [`flare.json`](../data/flare.json) dataset provided (or if you are up for the challenge create your own dataset — see tip below if you are using your own dataset).
 
 - [ ] Turn this treemap into a [circle pack](https://github.com/d3/d3-hierarchy#pack) layout instead of the treemap (this will take using a different layout function, and mapping different graphical elements to data).
 
@@ -29,6 +29,8 @@ As you're building, don't forget you can always reference the [class code branch
 
 - [ ] Do all of this for your own data. This may require data transformations. Take note of how the [`flare.json`](../data/flare.json) data is structured.
 
+- [ ] TIP: If you want to use your own dataset that isn't pre-formatted into a nested hierarchy, take a look at [this observable notebook](https://observablehq.com/@mbostock/2019-h-1b-employers) to see another way of reformatting your data into the proper format that D3 expects. Specifically, take a look at how the notebook defines the `root` node.
+
 ## Deploy + Submit
 
 Once you've completed the assignment, use the Github workflow to deploy your work to **your fork** of the course repository. Post the following as a comment to the appropriate post on the [commons site](https://interactivedatavis2021.commons.gc.cuny.edu/):
@@ -36,10 +38,6 @@ Once you've completed the assignment, use the Github workflow to deploy your wor
 2. a link to your deployed example (your link will look something like: `https://[YOUR_USERNAME].github.io/Interactive-Data-Vis-Sp2021/[TUTORIAL_PATH]/`)
 
 To receive full credit, you must post your stable path before the 12pm the day of the next class.
-
-## Required Reading:
-- [ ] Tufte, The Visual Display of Quantitative Information: Data-Ink and Graphical Redesign.
-- [ ] Tufte, The Visual Display of Quantitative Information: Aesthetic and Technique in Data Graphical Design.
 
 ## Other Resources:
 - [d3 hierarchy](https://github.com/d3/d3-hierarchy)
@@ -55,21 +53,3 @@ To receive full credit, you must post your stable path before the 12pm the day o
 - [Thinking With Joins](https://bost.ocks.org/mike/join/)
 - [Arrow Functions](https://www.javascripttutorial.net/es6/javascript-arrow-function/)
 - [Javascript.info: Data Types](https://javascript.info/types)
-- [MDN: Introduction to Asynchronous Code.](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Introducing)
-- [d3 geo](https://github.com/d3/d3-geo)
-- [selection.join](https://observablehq.com/@d3/selection-join)
-- [Learn D3: Scales](https://observablehq.com/@d3/learn-d3-scales?collection=@d3/learn-d3)
-- [Learn D3: Shapes](https://observablehq.com/@d3/learn-d3-shapes?collection=@d3/learn-d3)
-- [Data Structures D3 Accepts](https://www.dashingd3js.com/data-structures-d3js-accepts)
-- [Serial Mentor: Directory of Visualizations](https://serialmentor.com/dataviz/directory-of-visualizations.html)
-- [O'Reilly: Binding Data](https://alignedleft.com/tutorials/d3/binding-data)
-- [O'Reilly: Chaining Methods](https://alignedleft.com/tutorials/d3/chaining-methods)
-- [JS Fundamentals: Variables](https://javascript.info/variables)
-- [Javascript Fundamentals](https://javascript.info/first-steps)
-- [Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-- [How to use github](https://git-scm.com/book/en/v2)
-- [Guide to CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
-- [Interneting Is Hard](https://www.internetingishard.com/html-and-css/)
-- [Javascript.info: Getting Started](https://javascript.info/getting-started)
-- [Javascript.info: Debugging Chrome](https://javascript.info/debugging-chrome)
-- [D3: Data-Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
