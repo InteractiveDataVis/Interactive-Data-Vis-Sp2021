@@ -27,7 +27,7 @@ As you're building, don't forget you can always reference the [class code branch
 
 - [ ] Turn this single line chart into a multi-line chart, either with this data or with your own.
 
-- [ ] Add hover activity to your path line or circles. Try doing this only with javascript `.on("mouseover", ...)`, before resorting to the css method, `:hover`. Consider adding text annotations on hover, or maybe to highlight key events.
+- [ ] Add hover activity to your path line or circles. Try doing this only with javascript `.on("mouseover", ...)`, before resorting to the css method, `:hover`. Consider adding text annotations on hover, a moving tooltip/info box, or maybe to highlight key events.
 
 ## Deploy + Submit
 
@@ -36,13 +36,6 @@ Once you've completed the assignment, use the Github workflow to deploy your wor
 2. a link to your deployed example (your link will look something like: `https://[YOUR_USERNAME].github.io/Interactive-Data-Vis-Sp2021/[TUTORIAL_PATH]/`)
 
 To receive full credit, you must post your stable path before the 12pm the day of the next class.
-
-## Required Reading:
-
-- [ ] [How Selections Work](https://bost.ocks.org/mike/selection/).
-- [ ] [Interneting Is Hard: Flexbox](https://www.internetingishard.com/html-and-css/flexbox/)
-- [ ] [Closure](https://javascript.info/closure)
-- [ ] OPTIONAL: [Flexbox Froggy](https://flexboxfroggy.com/)
 
 ## Other Resources:
 
@@ -57,15 +50,3 @@ To receive full credit, you must post your stable path before the 12pm the day o
 - [Learn D3: Shapes](https://observablehq.com/@d3/learn-d3-shapes?collection=@d3/learn-d3)
 - [Data Structures D3 Accepts](https://www.dashingd3js.com/data-structures-d3js-accepts)
 - [Serial Mentor: Directory of Visualizations](https://serialmentor.com/dataviz/directory-of-visualizations.html)
-- [O'Reilly: Binding Data](https://alignedleft.com/tutorials/d3/binding-data)
-- [O'Reilly: Chaining Methods](https://alignedleft.com/tutorials/d3/chaining-methods)
-- [JS Fundamentals: Variables](https://javascript.info/variables)
-- [Javascript Fundamentals](https://javascript.info/first-steps)
-- [Javascript Object Basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics)
-- [How to use github](https://git-scm.com/book/en/v2)
-- [Guide to CSS Selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors)
-- [Interneting Is Hard](https://www.internetingishard.com/html-and-css/)
-- [Javascript.info: Getting Started](https://javascript.info/getting-started)
-- [Javascript.info: Debugging Chrome](https://javascript.info/debugging-chrome)
-- [D3: Data-Driven Documents](http://vis.stanford.edu/files/2011-D3-InfoVis.pdf)
-
